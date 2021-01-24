@@ -24,5 +24,5 @@
 - Watches: also testing view
 
 ---
-Tip Reference: https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw
+Tip Reference: https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw  
 Debug Reference: https://www.youtube.com/watch?v=_1HM6MJMYPw
