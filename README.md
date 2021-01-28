@@ -1,6 +1,5 @@
 # Python (3.8) Tip
 ### Note Tip
-- Class
 - DataStructure
 - Exception
 - File IO
@@ -8,6 +7,13 @@
 - Module
 - Package
 - Built-in/External
+---
+
+### Notation
+- Class
+- Function
+- First-Class functions
+- Closures
 
 ---
 ### How to Debug
@@ -24,5 +30,7 @@
 - Watches: also testing view
 
 ---
+### References
 Tip Reference: https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw  
+Notations: https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g  
 Debug Reference: https://www.youtube.com/watch?v=_1HM6MJMYPw

@@ -3,3 +3,6 @@
 
 # ignore all files in the Quiz/ directory
 Quiz/
+
+# vscode
+.vscode/
