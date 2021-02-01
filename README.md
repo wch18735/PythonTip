@@ -14,6 +14,7 @@
 - Function
 - First-Class functions
 - Closures
+- Decorators
 
 ---
 ### How to Debug
