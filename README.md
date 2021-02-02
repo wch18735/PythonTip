@@ -15,6 +15,8 @@
 - First-Class functions
 - Closures
 - Decorators
+- `@getter @setter @deleter`
+- Special Method (Dunder)
 
 ---
 ### How to Debug
