@@ -32,6 +32,16 @@
 - Variable + add watch: add to Watches view
 - Watches: also testing view
 
+### How to Search
+1) search in english
+2) be simple
+3) `site:`
+4) `ctrl + click`
+5) `filetype:`
+6) `"keyword"`
+7) `+` (include)
+8) `-` (exclude)
+
 ---
 ### References
 Tip Reference: https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw  
